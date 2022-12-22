@@ -17,7 +17,7 @@ je sais aussi utiliser les logiciels suivants :
 
 vous pouvez me contacter via les méthodes suivantes :
 
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) <a align=center>(https://www.linkedin.com/in/steven-richart-2602481bb/)</a>
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) <a align=center>https://www.linkedin.com/in/steven-richart-2602481bb/</a>
 <!--
 **Miyuki62/Miyuki62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
