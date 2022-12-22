@@ -17,7 +17,7 @@ je sais aussi utiliser les logiciels suivants :
 
 vous pouvez me contacter via les méthodes suivantes :
 
-![Linkedin](https://www.linkedin.com/in/steven-richart-2602481bb/)
+[Linkedin](https://www.linkedin.com/in/steven-richart-2602481bb/)
 email : perso.stevenrichart@gmail.com
 <!--
 **Miyuki62/Miyuki62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
