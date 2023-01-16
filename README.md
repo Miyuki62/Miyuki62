@@ -14,6 +14,7 @@ je sais aussi utiliser les logiciels suivants :
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![wordpress](https://img.shields.io/badge/wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white)
 
 vous pouvez me contacter via les méthodes suivantes :
 
