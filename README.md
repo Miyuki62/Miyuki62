@@ -23,7 +23,7 @@ email : perso.stevenrichart@gmail.com
 
 |  #  | Project                                                                                                          | Description                                                                        |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- |     --------------------------------------------------------------------------------- |
-| 01  | [ORIGINAL EVENTS MOTOR](https://oem-asso.fr)                                | [aide pour la mise en page via le css pour la page : du shop, du calendrier, et de l'accueil mis en place de certains widgets avec wordpress]               |
+| 01  | [ORIGINAL EVENTS MOTOR](https://oem-asso.fr)                                | aide pour la mise en page via le css pour la page : du shop, du calendrier, et de l'accueil mis en place de certains widgets avec wordpress               |
 
 |  #  | Project de Formation                                                                                                                | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- |     --------------------------------------------------------------------------------- |
