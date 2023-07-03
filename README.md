@@ -20,6 +20,15 @@ vous pouvez me contacter via les méthodes suivantes :
 
 [Linkedin](https://www.linkedin.com/in/steven-richart-2602481bb/)
 email : perso.stevenrichart@gmail.com
+
+|  #  | Project Formation                                                                                                                | Live Demo                                                                         |
+| :-: | --------------------------------------------------------------------------------------------------------------------------- |     --------------------------------------------------------------------------------- |
+| 01  | [Booki]()                                | [Website]()               |
+| 02  | [Kasa](https://github.com/Miyuki62/Developpez-une-application-Web-avec-React-et-React-Router)                                | [Website](https://developpez-une-application-web-avec-react-et-react-router.vercel.app)               |
+| 03  | [Ohmyfood](https://github.comMiyuki62/Dynamisez-une-page-web-avec-des-animations-CSS)                          | [Website](https://miyuki62.github.io/Dynamisez-une-page-web-avec-des-animations-CSS/)          |
+| 04  | [PetitsPlats]()                               | [Website]()                   |
+| 05  | [FishEye](https://github.com/Miyuki62/Front-End-Fisheye)                               | [Website](https://miyuki62.github.io/Front-End-Fisheye/)                |
+
 <!--
 **Miyuki62/Miyuki62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
