@@ -21,9 +21,9 @@ vous pouvez me contacter via les méthodes suivantes :
 [Linkedin](https://www.linkedin.com/in/steven-richart-2602481bb/)
 email : perso.stevenrichart@gmail.com
 
-|  #  | Project                                                                                                          | Description                                                                        |
-| :-: | --------------------------------------------------------------------------------------------------------------------------- |     --------------------------------------------------------------------------------- |
-| 01  | [ORIGINAL EVENTS MOTOR](https://oem-asso.fr)                                | aide pour la mise en page via le css pour la page : du shop, du calendrier, et de l'accueil mis en place de certains widgets avec wordpress               |
+|  #  | Project                                                                                                          | Description                                                                        | Site Web                                                                         |
+| :-: | --------------------------------------------------------------------------------------------------------------------------- |     --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 01  | [ORIGINAL EVENTS MOTOR](https://www.facebook.com/oemfr)                                | aide pour la mise en page via le css pour la page : du shop, du calendrier, et de l'accueil mis en place de certains widgets avec wordpress               | [oem-asso.fr](https://oem-asso.fr)  
 
 |  #  | Project de Formation                                                                                                                | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- |     --------------------------------------------------------------------------------- |
