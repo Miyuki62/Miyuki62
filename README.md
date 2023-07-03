@@ -21,6 +21,10 @@ vous pouvez me contacter via les méthodes suivantes :
 [Linkedin](https://www.linkedin.com/in/steven-richart-2602481bb/)
 email : perso.stevenrichart@gmail.com
 
+|  #  | Project                                                                                                          | Description                                                                        |
+| :-: | --------------------------------------------------------------------------------------------------------------------------- |     --------------------------------------------------------------------------------- |
+| 01  | [ORIGINAL EVENTS MOTOR](https://oem-asso.fr)                                | [aide pour la mise en page via le css pour la page : du shop, du calendrier, et de l'accueil mis en place de certains widgets avec wordpress]               |
+
 |  #  | Project de Formation                                                                                                                | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- |     --------------------------------------------------------------------------------- |
 | 01  | [Booki](https://github.com/Miyuki62/Booki)                                | [Website](https://miyuki62.github.io/Booki/)               |
