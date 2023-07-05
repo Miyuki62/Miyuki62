@@ -18,9 +18,9 @@ je sais aussi utiliser les logiciels suivants :
 
 vous pouvez me contacter via les méthodes suivantes :
 
-[Linkedin](https://www.linkedin.com/in/steven-richart-2602481bb/) \r\n
-[Linktree](https://linktr.ee/stevenrichart)
-[Portfolio](https://drive.google.com/file/d/17Enh_4oZdr8iOBLB11xBFwG-DUyxQhYp/view) \r\n
+[Linkedin](https://www.linkedin.com/in/steven-richart-2602481bb/) |
+[Linktree](https://linktr.ee/stevenrichart) |
+[Portfolio](https://drive.google.com/file/d/17Enh_4oZdr8iOBLB11xBFwG-DUyxQhYp/view) |
 email : perso.stevenrichart@gmail.com
 
 |  #  | Project                                                                                                          | Description                                                                        | Site Web                                                                         |
