@@ -29,7 +29,7 @@ email : perso.stevenrichart@gmail.com
 
 |  #  | Project de Formation                                                                                                                | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- |     --------------------------------------------------------------------------------- |
-| 01  | [Booki](https://github.com/Miyuki62/Booki)                                | [Website](https://miyuki62.github.io/Booki/)               |
+| 01  | [Booki](https://github.com/Miyuki62/Booki)                                | [Site Web](https://miyuki62.github.io/Booki/)               |
 | 02  | [Kasa](https://github.com/Miyuki62/Developpez-une-application-Web-avec-React-et-React-Router)                                | [Site Web](https://developpez-une-application-web-avec-react-et-react-router.vercel.app)               |
 | 03  | [Ohmyfood](https://github.comMiyuki62/Dynamisez-une-page-web-avec-des-animations-CSS)                          | [Site Web](https://miyuki62.github.io/Dynamisez-une-page-web-avec-des-animations-CSS/)          |
 | 04  | [PetitsPlats](https://github.com/Miyuki62/Developpez-un-algorithme-de-recherche-en-JavaScript)                               | [Site Web](https://miyuki62.github.io/Developpez-un-algorithme-de-recherche-en-JavaScript/)                   |
