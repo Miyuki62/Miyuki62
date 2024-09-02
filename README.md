@@ -23,11 +23,14 @@ vous pouvez me contacter via les méthodes suivantes :
 [Portfolio](https://drive.google.com/file/d/17Enh_4oZdr8iOBLB11xBFwG-DUyxQhYp/view) |
 email : perso.stevenrichart@gmail.com
 
-|  #  | Project                                                                                                          | Description                                                                        | Site Web                                                                         |
+|  #  | Projet Pro                                                                                                          | Description                                                                        | Site Web                                                                         |
+| :-: | --------------------------------------------------------------------------------------------------------------------------- |     --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 01  | [ORIGINAL EVENTS MOTOR](https://www.facebook.com/oemfr)                                | aide pour la mise en page via le css pour la page : du shop, du calendrier, et de l'accueil mis en place de certains widgets avec wordpress               | [oem-asso.fr](https://oem-asso.fr)  
+|  #  | Projet Personel                                                                                                          | Description                                                                        | Site Web                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- |     --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [ORIGINAL EVENTS MOTOR](https://www.facebook.com/oemfr)                                | aide pour la mise en page via le css pour la page : du shop, du calendrier, et de l'accueil mis en place de certains widgets avec wordpress               | [oem-asso.fr](https://oem-asso.fr)  
 
-|  #  | Project de Formation                                                                                                                | Live Demo                                                                         |
+|  #  | Projet de Formation                                                                                                                | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- |     --------------------------------------------------------------------------------- |
 | 01  | [Booki](https://github.com/Miyuki62/Booki)                                | [Site Web](https://miyuki62.github.io/Booki/)               |
 | 02  | [Kasa](https://github.com/Miyuki62/Developpez-une-application-Web-avec-React-et-React-Router)                                | [Site Web](https://developpez-une-application-web-avec-react-et-react-router.vercel.app)               |
