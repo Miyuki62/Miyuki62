@@ -23,21 +23,21 @@ vous pouvez me contacter via les méthodes suivantes :
 [Portfolio](https://drive.google.com/file/d/17Enh_4oZdr8iOBLB11xBFwG-DUyxQhYp/view) |
 email : perso.stevenrichart@gmail.com
 
-|  #  | Projet Professionnel																																																				| Description                                                                           |  Site Web                                                                         |
-| :-: | --------------------------------------------------------------------------------------------------------------------------- |     --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [ORIGINAL EVENTS MOTOR (Fermée)](https://www.facebook.com/oemfr)                                | Aide pour la mise en page via le css pour la page : du shop, du calendrier, et de l'accueil mis en place de certains widgets avec WordPress.               | [oem-asso.fr](https://oem-asso.fr)                 |
+|  #  | Projet Professionnel																																																				| Description                                                                           |  Site Web                                                                   |
+| :-: | --------------------------------------------------------------------------------------------------------------------------- |----------------------------------------------------------------------------------| ---------------------------------------------------------------------------------|
+| 01  | [ORIGINAL EVENTS MOTOR (Page Facebook Fermée)](https://www.facebook.com/oemfr)                                              | Aide pour la mise en page via le css pour la page : du shop, du calendrier, et de l'accueil mis en place de certains widgets avec WordPress.| [oem-asso.fr](https://oem-asso.fr)       |
 
-|  #  | Projet Personnel| Description                                                                           | Lien vers le site Web                                                                 |
-| :-: | --------------------------------------------------------------------------------------------------------------------------- |     --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [QR code ](https://github.com/Miyuki62/QR-code-generator)                                | Projet de generation de QR Code fait pour le site devChallenges avec HTML,CSS et Javascript.               | [Demo](https://miyuki62.github.io/QR-code-generator/)  
+|  #  | Projet Personnel                                                                                                            | Description                                                                           | Lien vers le site Web                                                             |
+| :-: | --------------------------------------------------------------------------------------------------------------------------- |-------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 01  | [QR code ](https://github.com/Miyuki62/QR-code-generator)                                                                   | Projet de generation de QR Code fait pour le site devChallenges avec HTML,CSS et Javascript.              | [Demo](https://miyuki62.github.io/QR-code-generator/)  
 
-|  #  | Projet de Formation                                                                                                                | Live Demo                                                                         |
-| :-: | --------------------------------------------------------------------------------------------------------------------------- |     --------------------------------------------------------------------------------- |
-| 01  | [Booki](https://github.com/Miyuki62/Booki)                                | [Site Web](https://miyuki62.github.io/Booki/)               |
-| 02  | [Kasa](https://github.com/Miyuki62/Developpez-une-application-Web-avec-React-et-React-Router)                               | [Demo](https://developpez-une-application-web-avec-react-et-react-router.vercel.app)               |
-| 03  | [Ohmyfood](https://github.comMiyuki62/Dynamisez-une-page-web-avec-des-animations-CSS)                          | [Demo](https://miyuki62.github.io/Dynamisez-une-page-web-avec-des-animations-CSS/)          |
-| 04  | [PetitsPlats](https://github.com/Miyuki62/Developpez-un-algorithme-de-recherche-en-JavaScript)                               | [Demo](https://miyuki62.github.io/Developpez-un-algorithme-de-recherche-en-JavaScript/)                   |
-| 05  | [FishEye](https://github.com/Miyuki62/Front-End-Fisheye)                               | [Demo](https://miyuki62.github.io/Front-End-Fisheye/)                |
+|  #  | Projet de Formation                                                                                                         | Live Demo                                                                                                 |
+| :-: | --------------------------------------------------------------------------------------------------------------------------- |-----------------------------------------------------------------------------------------------------------|
+| 01  | [Booki](https://github.com/Miyuki62/Booki)                                                                                  | [Demo](https://miyuki62.github.io/Booki/)                                                                 |
+| 02  | [Kasa](https://github.com/Miyuki62/Developpez-une-application-Web-avec-React-et-React-Router)                               | [Demo](https://developpez-une-application-web-avec-react-et-react-router.vercel.app)                      |
+| 03  | [Ohmyfood](https://github.comMiyuki62/Dynamisez-une-page-web-avec-des-animations-CSS)                                       | [Demo](https://miyuki62.github.io/Dynamisez-une-page-web-avec-des-animations-CSS/)                        |
+| 04  | [PetitsPlats](https://github.com/Miyuki62/Developpez-un-algorithme-de-recherche-en-JavaScript)                              | [Demo](https://miyuki62.github.io/Developpez-un-algorithme-de-recherche-en-JavaScript/)                   |
+| 05  | [FishEye](https://github.com/Miyuki62/Front-End-Fisheye)                                                                    | [Demo](https://miyuki62.github.io/Front-End-Fisheye/)                                                     |
 
 <!--
 **Miyuki62/Miyuki62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
